@@ -1,0 +1,1 @@
+To test this solution connect the jumper wire PA0 (where PWM Timer was set up) and small leg of LED on the breadboard; connect +3.3V and the long leg of the LED on the breadboard
