@@ -7,7 +7,7 @@ Source code adapted after the Udemy.com course "Mastering STM32CubeMX 5 and Cube
 https://www.udemy.com/course/stm32cubemx-5-and-cubeide/
 
 The source code is tested on STM32 Nucleo 144 family boards.
-* https://www.st.com/en/evaluation-tools/nucleo-f429zi.html AND/OR
+* https://www.st.com/en/evaluation-tools/nucleo-f429zi.html  and/or
 * https://www.st.com/en/evaluation-tools/nucleo-h7a3zi-q.html 
 
 Verify the STM32 CubeMx .pdf report file in each folder for the development board the exercise driver is referring to.
