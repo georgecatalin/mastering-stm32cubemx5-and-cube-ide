@@ -100,7 +100,7 @@ void MX_FREERTOS_Init(void) {
   //TODO
   /* definition and creation of secondThread */
   osThreadDef(thirdThread, third_thread_function, osPriorityNormal, 0, 128);
-  secondThreadHandle = osThreadCreate(osThread(thirdThread), NULL);
+  thirdThreadHandle = osThreadCreate(osThread(thirdThread), NULL);
 
 
   /* USER CODE BEGIN RTOS_THREADS */
