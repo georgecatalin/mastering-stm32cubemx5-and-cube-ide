@@ -17,7 +17,9 @@ Verify the STM32 CubeMx .pdf report file in each folder for the development boar
 ### STM32 Nucleo H7A3ZI-Q
 ![STM32 Nucleo 144 Development Board](H7A3ZI_Q.png)
 
-### Commits by
+## Repository info
+The content within this repository is my own work produced as a result of completing the course.
+### About me
 * George Calin
 * george.calin [at] gmail.com
-* Connect me on LinkedIn: https://www.linkedin.com/in/cgeorge1978/
+* LinkedIn: https://www.linkedin.com/in/cgeorge1978/
